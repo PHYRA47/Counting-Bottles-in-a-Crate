@@ -1,4 +1,6 @@
-# Machine Vision: Bottle Detection with Hough Transform 🍾🔍
+## Machine Vision Project
+
+# 🍾 Counting Bottles in a Crate 📦
 
 This MATLAB-based project demonstrates bottle detection in images. Developed as a final home assignment, it employs the Hough Transform technique to locate and count bottles with a series of preprocessing steps to enhance image quality.
 
@@ -7,10 +9,6 @@ This MATLAB-based project demonstrates bottle detection in images. Developed as 
 - Preprocessing functions to improve image quality for detection.
 - Hough Transform for robust circle detection representing bottles.
 - Interactive results display with a figure showing detected bottles.
-
-## Usage 🛠️
-
-Execute the script in MATLAB to begin the detection process. Each image will be processed to detect bottles, and the results will be visualized and tabulated.
 
 ## Results 📊
 
